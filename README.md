@@ -1,7 +1,7 @@
 # Hi, I'm Minhaz 👋
 
-- 🏗️ Solutions Architect<br>
-- 🛠️ ​Platform Engineer
+🏗️ Solutions Architect<br>
+🛠️ ​Platform Engineer
 
 ## What I'm up to 👨‍💻
 
