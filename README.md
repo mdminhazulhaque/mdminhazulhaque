@@ -1,17 +1,17 @@
-## Hi, I'm Minhaz 👋
+# Hi, I'm Minhaz 👋
 
 - 🏗️ Solutions Architect<br>
 - 🛠️ ​Platform Engineer
 
-### What I'm up to 👨‍💻
+## What I'm up to 👨‍💻
 
-- 🧱 Building Platforms<br>
-- 📐 Architecting Solutions<br>
-- 🧠 Crafting AI Products<br>
-- 🛡️ Handling Security<br>
+🧱 Building Platforms<br>
+📐 Architecting Solutions<br>
+🧠 Crafting AI Products<br>
+🛡️ Handling Security<br>
 
-### Find me elsewhere 🌎
+## Find me 🌎
 
-- 🚀 [Website](https://mdminhazulhaque.io)
-- 📝 [Blog](https://blog.mdminhazulhaque.io/)
-- 💼 [LinkedIn](https://www.linkedin.com/in/mdminhazulhaque/)
+🚀 [Website](https://mdminhazulhaque.io)<br>
+📝 [Blog](https://blog.mdminhazulhaque.io/)<br>
+💼 [LinkedIn](https://www.linkedin.com/in/mdminhazulhaque/)
