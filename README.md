@@ -1,16 +1,17 @@
-## Hi there 👋
+## Hi, I'm Minhaz 👋
 
-<!--
-**mdminhazulhaque/mdminhazulhaque** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 🏗️ Solutions Architect<br>
+- 🛠️ ​Platform Engineer
 
-Here are some ideas to get you started:
+### What I'm up to 👨‍💻
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🧱 Building Platforms<br>
+- 📐 Architecting Solutions<br>
+- 🧠 Crafting AI Products<br>
+- 🛡️ Handling Security<br>
+
+### Find me elsewhere 🌎
+
+- 🚀 [Website](https://mdminhazulhaque.io)
+- 📝 [Blog](https://blog.mdminhazulhaque.io/)
+- 💼 [LinkedIn](https://www.linkedin.com/in/mdminhazulhaque/)
